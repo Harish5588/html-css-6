@@ -1,0 +1,91 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image: url(/images/coffee\ bg.jpeg);
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+
+h1{
+    color: goldenrod;
+    text-shadow: 2px 1px black;
+    font-size: 50px;
+}
+.one {
+    background-color: rgb(79, 49, 49);
+    height: 40px;
+    border-radius: 10px;
+}
+.one ul li a{
+    text-decoration: none;
+    color: white;
+}
+.one ul{
+    list-style: none;
+    text-align: center;
+    padding-top: 10px;
+    
+}
+.one ul li{
+    display:inline-flex;
+    margin-left: 80px;
+    
+}
+.two{
+    background-color: rgb(142, 117, 117);
+    margin-top: 10px;
+    border-radius: 10px;
+    height: fit-content;
+}
+.two h3{
+    color: white;
+    margin-left: 40px;
+    padding-top: 30px;
+}
+.two p{
+    color: goldenrod;
+    width: 300px;
+    margin-left: 40px;
+    padding-top: 20px;
+}
+.two img{
+    margin-left: 1150px;
+    margin-top: -160px;
+    border-radius: 20px;
+}
+.in{
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 10px;
+    display: flex;
+    padding: 20px;
+    height: 400px;
+}
+.three ul {
+    list-style: none;
+    width:300px;
+    height: 400px;
+    text-align: center;
+    margin-left: 50px;
+    
+    background-color: rgb(215, 182, 98);
+    border-radius: 10px;
+}
+.three img{
+    width:150px;
+    height: 150px;
+    
+    
+    margin-top: 50px;
+    
+    border: 8px groove white;
+    border-radius: 10px;
+}
+
+.three ul  a{
+    color: white;
+    font-size: 20px;    
+}
